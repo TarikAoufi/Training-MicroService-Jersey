@@ -7,10 +7,9 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * Classe de configuration qui permet de déployer avec Jersey
+ * Classe de configuration qui permet  
+ * de déployer avec Jersey les WS JAX-RS
  * 
- *  les WS JAX-RS
- *
  */
 @Configuration
 public class MyConfig {

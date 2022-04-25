@@ -7,3 +7,4 @@ URL pour tester les WS :
 
 	+ List of training:	http://localhost:8080/schooling/trainings
 	+ Get training by id:	http://localhost:8080/schooling/trainings/id		
+ 

@@ -6,5 +6,6 @@ URL pour tester les WS :
 	+ Get student by id:	http://localhost:8080/schooling/students/id
 
 	+ List of training:	http://localhost:8080/schooling/trainings
-	+ Get training by id:	http://localhost:8080/schooling/trainings/id		
+	+ Get training by id:	http://localhost:8080/schooling/trainings/id
  
+
